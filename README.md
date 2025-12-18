@@ -22,274 +22,71 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal & AI Toolkit
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://developer.android.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" title="Android"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://angular.io" target="_blank">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" title="Angular"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.blender.org/" target="_blank">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40" title="Blender"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" title="Bootstrap"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.chartjs.org" target="_blank">
-        <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40" title="Chart.js"/>
-      </a>
-    </td>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td align="center">
-      <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" title="CSS3"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://d3js.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40" height="40" title="D3.js"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://dart.dev" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" title="Dart"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" height="40" title="Django"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" title="Docker"/>
-      </a>
-    </td>
-  </tr>
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-  <tr>
-    <td align="center">
-      <a href="https://dotnet.microsoft.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" title=".NET"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://expressjs.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" title="Express"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" title="Figma"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" title="Firebase"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://flutter.dev" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" title="Flutter"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.gatsbyjs.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" width="40" height="40" title="Gatsby"/>
-      </a>
-    </td>
-  </tr>
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-  <tr>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://heroku.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40" title="Heroku"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML5"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" title="Illustrator"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
-      </a>
-    </td>
-  </tr>
+### ⚙️ Backend & Cloud Technologies
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-  <tr>
-    <td align="center">
-      <a href="https://kotlinlang.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" title="Kotlin"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://laravel.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" title="Laravel"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://materializecss.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/prplx/svg-logos/558553f9f0a4e02b213aa1eb36a83d6b6b5312e6/svg/materialize.svg" width="40" height="40" title="Materialize"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>
-      </a>
-    </td>
-  </tr>
+### 🗄️ Databases & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-  <tr>
-    <td align="center">
-      <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" title="Node.js"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nuxtjs.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="40" height="40" title="Nuxt.js"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://opencv.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" title="OpenCV"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.oracle.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" title="Photoshop"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.php.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
-      </a>
-    </td>
-  </tr>
+### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=for-the-badge)
 
-  <tr>
-    <td align="center">
-      <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" title="PostgreSQL"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" title="Postman"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://reactnative.dev/" target="_blank">
-        <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" title="React Native"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://redux.js.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" title="Redux"/>
-      </a>
-    </td>
-  </tr>
+### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-  <tr>
-    <td align="center">
-      <a href="https://sass-lang.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" title="Sass"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://spring.io/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" title="Spring"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" title="Tailwind CSS"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.tensorflow.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" title="TensorFlow"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://vuejs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" title="Vue.js"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://vuetifyjs.com/en/" target="_blank">
-        <img src="https://bestofjs.org/logos/vuetify.svg" width="40" height="40" title="Vuetify"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+</div>
 
 ---
 
@@ -305,7 +102,6 @@
 
 ---
 
-
 ## 📫 Let's Connect!
 
 - 💼 **LinkedIn**: [Pesandu Jayasinghe](https://linkedin.com/in/pesandu-jayasinghe-a1b4b3354)
@@ -317,4 +113,3 @@
 </p>
 
 ---
-
