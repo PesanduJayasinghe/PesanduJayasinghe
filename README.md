@@ -1,6 +1,9 @@
 <p align="center">
-  <img class="profile-anim" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=7bfc03&size=40&height=200&width=800&lines=Heyyy!+I'm+Pesandu+Jayasinghe+%3C3;Passionate+Software+Engineer;Welcome+to+my+GitHub+Universe!" alt="Typing SVG">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img class="profile-anim" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&center=true&vCenter=true&duration=3000&color=7bfc03,00d4ff,ff00ff&size=40&height=200&width=800&lines=I'm+Pesandu+Jayasinghe+;Welcome+to+my+GitHub+Universe!" alt="Typing SVG">
 </p>
+
+---
 
 <p align="center">
   <em class="fade-in">A passionate Software Developer from Sri Lanka 🌴, crafting innovative solutions with code and creativity!</em>
@@ -93,11 +96,12 @@
 ## 🏆 My GitHub Stats
 
 <p align="center">
-  
+
+
   <img class="fade-in" src="https://github-readme-stats.vercel.app/api?username=pesandujayasinghe&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="margin: 10px;"/>
   <img class="fade-in" src="https://github-readme-streak-stats.herokuapp.com/?user=pesandujayasinghe&theme=radical" alt="GitHub Streak" style="margin: 10px;"/>.
   <img class="fade-in" src="https://github-readme-stats.vercel.app/api/top-langs?username=pesandujayasinghe&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;"/>
-  </div>
+ 
 </p>
 
 ---
@@ -113,3 +117,7 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
